@@ -1,0 +1,121 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/default.png'
+  name: default
+  timestamp: 1475608600
+layout:
+  /navigation/:
+    -
+      - 'logo-9608 30'
+      - 'menu-6409 50'
+      - 'social-3171 20'
+  /header/: {  }
+  /intro/: {  }
+  /features/: {  }
+  /utility/: {  }
+  /above/: {  }
+  /testimonials/: {  }
+  /expanded/: {  }
+  /container-main/:
+    -
+      -
+        'mainbar 75':
+          -
+            - system-content-1587
+      -
+        'sidebar 25':
+          -
+            - position-position-3949
+  /footer/:
+    -
+      - 'custom-4647 30'
+      - 'horizontalmenu-9034 50'
+      - 'totop-8670 20'
+  /offcanvas/:
+    -
+      - mobile-menu-5697
+structure:
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  header:
+    attributes:
+      boxed: ''
+      class: ''
+  intro:
+    type: section
+    attributes:
+      boxed: ''
+  features:
+    type: section
+    attributes:
+      boxed: ''
+  utility:
+    type: section
+    attributes:
+      boxed: ''
+      class: ''
+  above:
+    type: section
+    attributes:
+      boxed: ''
+  testimonials:
+    type: section
+    attributes:
+      boxed: ''
+  expanded:
+    type: section
+    attributes:
+      boxed: ''
+  mainbar:
+    type: section
+    subtype: main
+  sidebar:
+    type: section
+    subtype: aside
+  container-main:
+    attributes:
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+  offcanvas:
+    attributes:
+      boxed: ''
+content:
+  logo-9608:
+    title: 'Logo / Image'
+    attributes:
+      svg: ''
+      text: 'Aarón Sosa'
+  social-3171:
+    attributes:
+      display: both
+    block:
+      class: g-social-header
+  position-position-3949:
+    title: Sidebar
+    attributes:
+      key: sidebar
+  custom-4647:
+    title: 'Custom HTML'
+    attributes:
+      html: 'Developed with <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-heart inline-block text-red-700 w-4 h-4 animate-pulse" style="width:1rem; height: 1rem;" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"> <path stroke="none" d="M0 0h24v24H0z" fill="none"></path> <path d="M19.5 13.572l-7.5 7.428l-7.5 -7.428m0 0a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572"></path> </svg> by <a href="#">Aarón S.</a>'
+  horizontalmenu-9034:
+    title: 'Horizontal Menu'
+    attributes:
+      items:
+        -
+          text: Home
+          link: 'https://blog.aaronsosa.es'
+          name: Home
+        -
+          text: 'Sobre Mí'
+          link: 'https://aaronsosa.es'
+          name: Documentation
+  totop-8670:
+    title: 'To Top'
+    attributes:
+      content: Top
+      title: Top

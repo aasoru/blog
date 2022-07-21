@@ -1,0 +1,9 @@
+version: '1.1'
+timestamp: 1657562731
+count: 1
+index:
+  admin_aaron:
+    storage_key: admin_aaron
+    storage_timestamp: 1657562731
+    key: admin_aaron
+    email: aasoru@gmail.com

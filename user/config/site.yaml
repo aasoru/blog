@@ -1,0 +1,19 @@
+title: 'Aarón Sosa Blog'
+default_lang: es
+author:
+  name: 'Aarón Sosa'
+  email: aasoru@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Blog personal de Aarón Sosa - Desarrollo de software y algo más'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
