@@ -9,6 +9,7 @@ taxonomy:
         - rendimiento
         - 'paso a paso'
 published: true
+media_order: 'windows nice.jpg'
 ---
 
 <p>Te recomiendo realizar diferentes <strong>cambios en los ajustes del sistema.</strong> As&iacute; conseguir&aacute;s mejorar la protecci&oacute;n de datos y el rendimiento.</p>
@@ -44,7 +45,7 @@ published: true
 </div>
 <p>&nbsp;</p>
 <h2>Acaba con las molestas notificaciones</h2>
-<p>Windows 10 integra un centro de notificaciones que persigue en todo momento mantenerte al tanto de&nbsp;<strong>lo que va ocurriendo en tus aplicaciones favoritas como por ejemplo el correo electr&oacute;nico o el calendario</strong>. Pero a veces estas pueden ser realmente intrusivas y terminar completamente abrumado por ellas. Es por ello, que es recomendable seleccionar que servicios o aplicaciones pueden terminar envi&aacute;ndote una notificaci&oacute;n, para que se adapte correctamente a tus necesidades. Para ello, vas a tener que seguir los siguientes pasos:</p>
+<p>Windows 10 integra un centro de notificaciones que tiene como objeto mantenerte al tanto de <strong>lo que va ocurriendo en tus aplicaciones favoritas como por ejemplo el correo electr&oacute;nico o el calendario</strong>. A veces pueden ser realmente intrusivas y terminar completamente abrumado por ellas. Para desactivarlas:</p>
 <ul>
 <li>Abre Configuraci&oacute;n pulsando Windows + I.</li>
 <li>Dir&iacute;gete a Sistema.</li>
@@ -52,27 +53,16 @@ published: true
 <li>Revisa toda la lista de notificaciones que existen. Desmarca aquellas que directamente no te interesan recibir como por ejemplo los trucos o recomendaciones de Windows.</li>
 </ul>
 <p>&nbsp;</p>
-<div class="article-asset-image article-asset-normal">
-<div class="asset-content">
-<div class="base-wrapper-image">&nbsp;</div>
-</div>
-</div>
 <p>&nbsp;</p>
 <h2>No recibas m&aacute;s anuncios personalizados</h2>
-<p>Al igual que ocurre cuando se navega por internet, cuando se va usando Windows 10 se va registrando todo el comportamiento de uso a trav&eacute;s de una identificaci&oacute;n publicitaria &uacute;nica. Esto hace que todos&nbsp;<strong>los anuncios que te vayan llegando est&eacute;n completamente personalizados.</strong>&nbsp;Pero el problema es que esta huella digital no se queda &uacute;nicamente en los servidores de Microsoft, ya que acaba tambi&eacute;n en manos de otras empresas.</p>
-<p>El problema que se presenta es que&nbsp;<strong>la publicidad no se puede desactivar completamente</strong>, sino que &uacute;nicamente se desactiva en parte. Igualmente, si quieres tener un mayor control de tu informaci&oacute;n, vas a poder seguir estos pasos:</p>
+<p>Cuando se usa Windows 10 se va registrando todo el comportamiento de uso a trav&eacute;s de una identificaci&oacute;n publicitaria &uacute;nica. Esto hace que todos <strong>los anuncios que te vayan llegando est&eacute;n completamente personalizados.</strong>&nbsp;Pero el problema es que esta huella digital no se queda &uacute;nicamente en los servidores de Microsoft, ya que acaba tambi&eacute;n en manos de otras empresas.</p>
+<p>El problema que se presenta es que&nbsp;<strong>la publicidad no se puede desactivar completamente</strong>, sino que &uacute;nicamente se desactiva en parte. Si quieres tener un mayor control de tu informaci&oacute;n, sigue estos pasos:</p>
 <ul>
 <li>Accede a Configuraci&oacute;n.</li>
 <li>Dir&iacute;gete al apartado Privacidad.</li>
 <li>Pulsa en General.</li>
 <li>Desactiva la primera opci&oacute;n dedicada al ID de publicidad para restablecerlo.</li>
 </ul>
-<p>&nbsp;</p>
-<div class="article-asset-image article-asset-normal">
-<div class="asset-content">
-<div class="base-wrapper-image">&nbsp;</div>
-</div>
-</div>
 <p>&nbsp;</p>
 <h2>Elimina anuncios en el men&uacute; de inicio</h2>
 <p>La publicidad est&aacute; pr&aacute;cticamente en todas partes del sistema operativo, incluso el men&uacute; de inicio. En este se puede llegar a&nbsp;<strong>mostrar alg&uacute;n anuncio debido a la configuraci&oacute;n predeterminada</strong>, aunque sea de&nbsp;<strong>la Microsoft Store</strong>&nbsp;en exclusiva o de terceros. Para poder eliminar incluso esto, vas a tener que seguir los siguientes pasos:</p>
@@ -111,3 +101,7 @@ published: true
 <li>Pulsa en Configuraci&oacute;n de sincronizaci&oacute;n.</li>
 <li>Retira los permisos a aquellos procesos que no quieres que est&eacute;n sincronizados.</li>
 </ul>
+<p>&nbsp;</p>
+<hr />
+<p><a href="https://www.genbeta.com/paso-a-paso/sigues-windows-10-recomendable-aplicar-estos-siete-ajustes-tu-pc-funcione-mejor" target="_blank" rel="noopener">Art&iacute;culo original</a>&nbsp;</p>
+<p><a href="https://www.pexels.com/es-es/foto/flores-colorido-ventana-alfeizar-11641363/">Foto de Pixabay en Pexels</a></p>
