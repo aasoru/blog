@@ -81,4 +81,4 @@ class SecitonController extends Controller
 <h2>&nbsp;</h2>
 <hr />
 <p>Este art&iacute;culo ha sido creado a partir de la documentaci&oacute;n oficial de Laravel que puedes encontrar <a href="https://laravel.com/docs/9.x/authorization">aqu&iacute;</a></p>
-<p><a href="https://www.pexels.com/photo/door-handle-key-keyhole-279810/">Foto de Pixabay en Pexels</a></p>
+<p>Photo by Pixabay: <a href="https://www.pexels.com/photo/door-handle-key-keyhole-279810/" target="_blank" rel="noopener">https://www.pexels.com/photo/door-handle-key-keyhole-279810/</a></p>
