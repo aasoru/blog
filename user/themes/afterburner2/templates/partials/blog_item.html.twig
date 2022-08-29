@@ -51,14 +51,14 @@
         {% endif %}
     {% elseif truncate and page.summary != page.content %}
         <p>{{ page.summary|raw }}</p>
-        <p><a href="{{ page.url }}">Leer más</a></p>
+        <p><a href="{{ page.url }}" class="button"><i class="fa fa-plus" /></i>Leer más</a></p>
     {% elseif truncate %}
         {% if page.summary != page.content %}
             <p>{{ page.content|truncate(550)|raw }}</p>
         {% else %}
             <p>{{ page.content|raw }}</p>
         {% endif %}
-        <p><a href="{{ page.url }}">Leer más</a></p>
+        <p><a href="{{ page.url }}" class="button"><i class="fa fa-plus" /></i> Leer más</a></p>
     {% else %}
         <p>{{ page.content|raw }}</p>
         {% set show_prev_next = true %}

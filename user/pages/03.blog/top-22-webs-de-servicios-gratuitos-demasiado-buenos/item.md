@@ -8,11 +8,6 @@ taxonomy:
         - servicios
         - webs
         - gratuito
-process:
-    markdown: true
-    twig: false
-markdown:
-    extra: true
 published: true
 media_order: top-22-webs-de-servicios-gratuitos-demasiado-buenos.jpg
 ---

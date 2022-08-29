@@ -798,6 +798,10 @@ ul.pagination {
   background: none;
 }
 
+a.button .fa {
+  margin-right: 4px;
+}
+
 .modular .showcase {
   padding-top: 2rem;
   padding-bottom: 2rem;

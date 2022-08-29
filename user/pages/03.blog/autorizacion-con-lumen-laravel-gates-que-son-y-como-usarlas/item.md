@@ -1,7 +1,7 @@
 ---
 title: 'Autorización con Lumen (Laravel) - Gates, qué son y cómo usarlas'
 date: '11-07-2022 18:55'
-author: 'Tasha Maxwell'
+author: 'Aarón Sosa'
 taxonomy:
     category:
         - blog
