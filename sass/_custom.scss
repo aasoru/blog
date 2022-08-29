@@ -1,0 +1,13 @@
+// Your custom SCSS should be written here...
+.blog-header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+// List Blog Item
+.list-item {
+    img {
+        float: none !important;
+        width: 100% !important;
+    }
+}

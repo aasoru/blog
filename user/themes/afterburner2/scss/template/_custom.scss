@@ -1,0 +1,39 @@
+// Your custom SCSS should be written here...
+.blog-header {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+// List Blog Item
+.list-item {
+    img {
+        float: none !important;
+        width: 100% !important;
+    }
+}
+
+#header {
+    margin-bottom: 15px;
+}
+
+#header #logo {
+    background: none;
+    width: auto;
+    height: auto;
+    position: static;
+    font-family: "Lato", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 900;
+    font-size: 1.35rem;
+    vertical-align: middle;
+    text-transform: uppercase;
+    color:white;
+    margin-top: 15px;
+}
+
+#header .logo-accent {
+    position: static;
+    width: auto;
+    height: auto;
+    border-radius: none;
+    background: none;
+}
