@@ -762,14 +762,29 @@ ul.pagination {
   margin: 1rem 0;
 }
 
+@font-face {
+  font-family: "BiloxiScript";
+  src: local("BiloxiScript"), url("../fonts/Biloxi-Script.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+#header {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+#header #navbar {
+  margin-top: 1rem;
+}
+
 .blog-header {
   padding-top: 0;
   padding-bottom: 0;
 }
 
 .list-item img {
-  float: none !important;
-  width: 100% !important;
+  float: none;
+  width: 100%;
 }
 
 #header {
@@ -781,12 +796,12 @@ ul.pagination {
   width: auto;
   height: auto;
   position: static;
-  font-family: "Lato", "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+  font-family: BiloxiScript;
   font-weight: 900;
-  font-size: 1.35rem;
+  font-size: 2rem;
   vertical-align: middle;
-  text-transform: uppercase;
-  color: white;
+  text-transform: capitalize;
+  color: #ed6f6d;
   margin-top: 15px;
 }
 

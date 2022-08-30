@@ -8,6 +8,7 @@
     {% include 'partials/metadata.html.twig' %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <link rel="icon" type="image/png" href="{{ url('theme://images/favicon.png', true) }}" />
+    <link rel="preload" as="font" type="font/woff" href="{{ url('theme://fonts/Biloxi-Script.ttf', true) }}" crossorigin="" />
 
     {% block stylesheets %}
         {% do assets.add('theme://css/pure-0.5.0/grids-min.css') %}
@@ -75,7 +76,7 @@
 
         {% block footer %}
         <footer id="footer">
-            <p><a href="https://aaronsosa.org" target="_blank" rel="noopener">This blog</a> was <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="https://aaronsosa.org" target="_blank" rel="noopener">Aarón Sosa</a>.</p>
+            <p>Made with <i class="fa fa-heart"></i> by <a href="https://aaronsosa.org" target="_blank" rel="noopener">Aarón S.</a>.</p>
         </footer>
         {% endblock %}
     </div>
