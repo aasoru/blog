@@ -1,5 +1,5 @@
 ---
-title: 'Top 22 webs de servicios gratuitos demasiado buenos'
+title: 'Top 20 webs de servicios gratuitos demasiado buenos 2'
 date: '28-08-2022 21:34'
 taxonomy:
     category:
@@ -8,29 +8,30 @@ taxonomy:
         - servicios
         - webs
         - gratuito
-published: true
-media_order: top-22-webs-de-servicios-gratuitos-demasiado-buenos.jpg
+published: false
+media_order: 'top-22-webs-de-servicios-gratuitos-demasiado-buenos.jpg,tempmail.jpg,loom.jpg,vidyard.jpg,tinywow.jpg,deepl.jpg'
 ---
 
 <p>Conversi&oacute;n de ficheros, grabaci&oacute;n y edici&oacute;n de pantalla, traducci&oacute;n ... Hay muchas herramientas online gratuitas que funcionan de maravilla y pueden llegar a convertirse en tu mejor amigo, y por eso voy a hacer un listado con algunas de ellas, usarlas depende ti.</p>
 <p>===</p>
 <p>1: <a href="https://temp-mail.org/" target="_blank" rel="noopener">TEMPMAIL</a></p>
+<p><a href="https://temp-mail.org/" target="_blank" rel="noopener"><img src="../top-20-webs-de-servicios-gratuitos-demasiado-buenos/tempmail.jpg" alt="" /></a></p>
 <p>Para crear una bandeja de entrada de emails temporales.</p>
-<p>website:&nbsp; <a href="https://temp-mail.org/" target="_blank" rel="noopener">https://temp-mail.org/</a></p>
+<p>&nbsp;</p>
 <p>2: <a href="https://www.loom.com/" target="_blank" rel="noopener">LOOM</a></p>
+<p><a href="https://www.loom.com/" target="_blank" rel="noopener"><img src="../top-20-webs-de-servicios-gratuitos-demasiado-buenos/loom.jpg" alt="" /></a></p>
 <p>&Uacute;sala para grabar tu pantalla. Haz de saber que la versi&oacute;n gratuita dispone s&oacute;lo de 5 minutos, si quieres m&aacute;s tienes que pasar por caja. Si esto no te convence tienes ...</p>
-<p>website: <a href="https://www.loom.com/" target="_blank" rel="noopener">https://www.loom.com/</a></p>
 <p>&nbsp;</p>
 <p>3: <a href="https://www.vidyard.com/" target="_blank" rel="noopener">VIDYARD</a></p>
+<p><a href="https://www.vidyard.com/" target="_blank" rel="noopener"><img src="../top-20-webs-de-servicios-gratuitos-demasiado-buenos/vidyard.jpg" alt="" /></a></p>
 <p>Lo mejor para grabar tu pantalla y tu webcam SIN limitaci&oacute;n de tiempo (pero necesitas registrarte para usarlo)</p>
-<p>website: <a href="https://www.vidyard.com/" target="_blank" rel="noopener">https://www.vidyard.com/</a></p>
 <p><br />4: <a href="https://tinywow.com/" target="_blank" rel="noopener">TINIWOW</a></p>
+<p><a href="https://tinywow.com/" target="_blank" rel="noopener"><img src="../top-20-webs-de-servicios-gratuitos-demasiado-buenos/tinywow.jpg" alt="" /></a></p>
 <p>Navaja multiusos para donde encontrar&aacute;s de todo: conversi&oacute;n de im&aacute;genes, videos, PDFs y mucho m&aacute;s.&nbsp;</p>
-<p>website: <a href="https://tinywow.com/" target="_blank" rel="noopener">https://tinywow.com/</a></p>
 <p>&nbsp;</p>
 <p>5: <a href="https://www.deepl.com/">DEEPL</a></p>
+<p><a href="https://www.deepl.com/" target="_blank" rel="noopener"><img src="../top-20-webs-de-servicios-gratuitos-demasiado-buenos/deepl.jpg" alt="" /></a></p>
 <p>Traductor de idiomas, no tiene tantos como google translate pero se ha convertido en un poderoso aliado para mi d&iacute;a a d&iacute;a</p>
-<p>website: <a href="https://www.deepl.com/" target="_blank" rel="noopener">https://www.deepl.com/</a></p>
 <p>&nbsp;</p>
 <p>6: <a href="https://otter.ai/" target="_blank" rel="noopener">OTTER AI</a></p>
 <p>Pertmite grabar videoconferencias, podcasts, etc. y usa la IA para transcribir todo en texto.</p>

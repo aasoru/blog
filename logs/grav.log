@@ -6,3 +6,8 @@
 [2022-07-11 18:05:31] grav.DEBUG: Flex: User index updated, 1 objects (0 added, 1 updated, 0 removed). [] []
 [2022-08-08 19:57:03] grav.DEBUG: Flex: User index updated, 1 objects (0 added, 1 updated, 0 removed). [] []
 [2022-08-29 23:18:18] grav.ERROR: Blueprint blog cannot be loaded: Cannot load blueprint blog: Failed to read blog.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
+[2022-08-30 00:00:56] grav.ERROR: Blueprint item cannot be loaded: Cannot load blueprint item: Failed to read item.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
+[2022-08-30 00:03:28] grav.ERROR: Blueprint item cannot be loaded: Cannot load blueprint item: Failed to read item.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
+[2022-08-30 00:10:07] grav.ERROR: Blueprint item cannot be loaded: Cannot load blueprint item: Failed to read item.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
+[2022-08-30 00:16:48] grav.ERROR: Blueprint item cannot be loaded: Cannot load blueprint item: Failed to read item.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
+[2022-08-30 00:19:37] grav.ERROR: Blueprint item cannot be loaded: Cannot load blueprint item: Failed to read item.yaml: The reserved indicator "@" cannot start a plain scalar; you need to quote the scalar at line 2 (near "@extends:"). [] []
