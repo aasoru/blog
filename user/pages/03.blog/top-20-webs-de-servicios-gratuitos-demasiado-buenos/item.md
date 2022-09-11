@@ -33,6 +33,7 @@ media_order: 'top-22-webs-de-servicios-gratuitos-demasiado-buenos.jpg,tempmail.j
 <li><a href="https://paletton.com/" target="_blank" rel="noopener">PALETTON</a> -&gt; Consulta combinaciones de colores</li>
 <li><a href="https://everythingfonts.com/" target="_blank" rel="noopener">EVERYTHING FONTS</a> -&gt; Conversi&oacute;n de fuentes</li>
 <li><a href="https://www.codigos-qr.com/" target="_blank" rel="noopener">C&Oacute;DIGOS QR</a> -&gt; Generaci&oacute;n de QRs</li>
+<li><a href="https://app.netlify.com/drop" target="_blank" rel="noopener">NETLIFY DROP</a> -&gt; Publica tu web est&aacute;tica r&aacute;pido y f&aacute;cil</li>
 <li><a href="https://privnote.com/" target="_blank" rel="noopener">PRIVNOTE</a> -&gt; Creaci&oacute;n de notas que se autodestruyen despu&eacute;s de leerlas, muy &uacute;til para compartir informaci&oacute;n sensible</li>
 </ol>
 <p>&nbsp;</p>
