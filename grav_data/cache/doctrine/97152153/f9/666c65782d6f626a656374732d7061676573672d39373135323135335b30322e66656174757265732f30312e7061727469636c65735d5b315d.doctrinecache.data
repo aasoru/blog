@@ -1,0 +1,17 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"features/particles";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:9:"Particles";s:6:"author";a:2:{s:8:"username";s:5:"admin";s:5:"alias";s:11:"RocketTheme";}s:4:"date";s:19:"2016-01-01 00:00:01";s:9:"published";b:1;s:12:"publish_date";s:19:"2016-10-04 19:24:53";s:8:"taxonomy";a:1:{s:8:"category";s:14:"Theme Features";}s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:0;}s:8:"markdown";a:1:{s:5:"extra";b:1;}}s:11:"frontmatter";s:256:"title: Particles
+author:
+    username: admin
+    alias: RocketTheme
+date: '2016-01-01 00:00:01'
+published: true
+publish_date: '2016-10-04 19:24:53'
+taxonomy:
+    category: 'Theme Features'
+process:
+    markdown: true
+    twig: false
+markdown:
+  extra: true";s:8:"markdown";s:410:"##Particles {.entry-title}
+<p>Particles are incredibly simple building blocks that Gantry 5 themes thrive on. They are easy to set up, require no coding experience to configure, and are built on an intuitive and human-readable Twig and YAML file structure that makes developing them a breeze. You can use particles to set up your logo, display content in a way that complements the theme design, and more.</p>
+";}s:7:"storage";a:6:{s:3:"key";s:18:"features/particles";s:11:"storage_key";s:24:"02.features/01.particles";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1663000945;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1658418586;}}s:8:"checksum";s:32:"1844a81b0b1e096026b06d3177ae7780";}}

@@ -1,0 +1,22 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:37:"blog/bun-un-rival-para-node-js-y-deno";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:34:" Bun, un rival para Node.js y Deno";s:4:"date";s:16:"30-08-2022 16:34";s:13:"continue_link";b:0;s:8:"taxonomy";a:2:{s:8:"category";a:1:{i:0;s:4:"blog";}s:3:"tag";a:3:{i:0;s:10:"desarrollo";i:1;s:10:"javascript";i:2;s:11:"comparativa";}}s:9:"published";b:1;s:11:"media_order";s:7:"bun.jpg";}s:11:"frontmatter";s:238:"title: ' Bun, un rival para Node.js y Deno'
+date: '30-08-2022 16:34'
+continue_link: false
+taxonomy:
+    category:
+        - blog
+    tag:
+        - desarrollo
+        - javascript
+        - comparativa
+published: true
+media_order: bun.jpg";s:8:"markdown";s:1031:"<blockquote>
+<p>Bun, an all-in-one JavaScript runtime with enhanced performance, is now available in beta release.</p>
+</blockquote>
+<p><a href="https://bun.sh/" target="_blank" rel="noopener">Bun</a>, dise&ntilde;ado para competir con Node.js y Deno, est&aacute; centrado en el rendimiento y en ser todo en uno (runtime, bundler, gestor de paquetes, transpilador).&nbsp;</p>
+<p>===</p>
+<p>Un factor que contribuye a que sea tan <strong>veloz</strong> es que est&aacute; escrito en <strong>Zig</strong>, un lenguaje de programaci&oacute;n de bajo nivel. Esto hace que sea m&aacute;s sencillo escribir un software m&aacute;s r&aacute;pido debido al control de bajo nivel sobre la memoria.</p>
+<p>&nbsp;</p>
+<p>Entonces, &iquest;deber&iacute;as usar Bun?<br />Probablemente no, al menos actualmente ya que a&uacute;n est&aacute; en fase beta, pero merecer&aacute; la pena seguirle la pista para ver c&oacute;mo evoluciona.</p>
+<p>&nbsp;</p>
+<p>website: <a href="https://bun.sh/" target="_blank" rel="noopener">https://bun.sh/</a></p>";}s:7:"storage";a:6:{s:3:"key";s:37:"blog/bun-un-rival-para-node-js-y-deno";s:11:"storage_key";s:40:"03.blog/bun-un-rival-para-node-js-y-deno";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1663001582;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1663001582;}}s:8:"checksum";s:32:"80f9bcd61b3721373e5f82f25f1fef49";}}

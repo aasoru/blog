@@ -1,0 +1,7 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"pages/error";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:6:"gantry";a:1:{s:7:"outline";s:6:"_error";}s:18:"http_response_code";i:404;s:5:"title";s:10:"Error Page";s:9:"published";b:1;}s:11:"frontmatter";s:87:"gantry:
+    outline: _error
+http_response_code: 404
+title: 'Error Page'
+published: true";s:8:"markdown";s:21:"# 404 Page not found
+";}s:7:"storage";a:6:{s:3:"key";s:11:"pages/error";s:11:"storage_key";s:17:"03.pages/03.error";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1658418586;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1658418586;}}s:8:"checksum";s:32:"9717148c135487aa4566299137604a2d";}}

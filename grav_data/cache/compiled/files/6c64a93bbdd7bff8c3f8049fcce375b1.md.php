@@ -1,0 +1,129 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
+    'filename' => '/Users/aaronsosaruiz/Proyectos/blog/grav_data/user/pages/03.blog/configuraciones-basicas-de-windows-10-para-mejorar-rendimiento-y-privacidad/item.md',
+    'modified' => 1661721414,
+    'size' => 6441,
+    'data' => [
+        'header' => [
+            'title' => 'Configuraciones básicas de Windows 10 para mejorar rendimiento y privacidad',
+            'date' => '07-08-2022 17:22',
+            'taxonomy' => [
+                'category' => [
+                    0 => 'blog'
+                ],
+                'tag' => [
+                    0 => 'windows 10',
+                    1 => 'rendimiento',
+                    2 => 'paso a paso'
+                ]
+            ],
+            'published' => true,
+            'media_order' => 'windows nice.jpg'
+        ],
+        'frontmatter' => 'title: \'Configuraciones básicas de Windows 10 para mejorar rendimiento y privacidad\'
+date: \'07-08-2022 17:22\'
+taxonomy:
+    category:
+        - blog
+    tag:
+        - \'windows 10\'
+        - rendimiento
+        - \'paso a paso\'
+published: true
+media_order: \'windows nice.jpg\'',
+        'markdown' => '<p>Te recomiendo realizar diferentes <strong>cambios en los ajustes del sistema.</strong> As&iacute; conseguir&aacute;s mejorar la protecci&oacute;n de datos y el rendimiento.</p>
+<p>===</p>
+<h2>Bloquea la subida de actualizaciones</h2>
+<p><strong>Puedes desactivarlo</strong>&nbsp;para evitar que se est&eacute; comprometiendo tu informaci&oacute;n siguiendo estos pasos:</p>
+<ul>
+<li>Abre Configuraci&oacute;n pulsando la tecla Windows + I.</li>
+<li>Haz clic en Actualizaci&oacute;n y seguridad.</li>
+<li>Entra en Optimizaci&oacute;n de transmisi&oacute;n.</li>
+<li>Deshabilita la opci&oacute;n Permitir descargas de otros equipos.</li>
+</ul>
+<p>&nbsp;</p>
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+<div class="base-wrapper-image">&nbsp;</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<h2>Desactiva Cortana en Windows</h2>
+<p>Cortana es una de las&nbsp;<strong>v&iacute;as de monitorizaci&oacute;n que tiene el sistema para saber en todo momento lo que est&aacute;s escribiendo</strong> o tambi&eacute;n si est&aacute;s hablando. Quiere aprender de ti para ofrecer la mejor personalizaci&oacute;n en todas las respuestas. Para desactivarla:</p>
+<ul>
+<li>Pulsar la combinaci&oacute;n Windows + I para acceder a Configuraci&oacute;n.</li>
+<li>Dir&iacute;gete a Privacidad.</li>
+<li>Entra en Reconocimiento de voz, entrada manuscrita y escritura.</li>
+<li>Pulsa en el switch para desactivar esta opci&oacute;n.</li>
+</ul>
+<p>&nbsp;</p>
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+<div class="base-wrapper-image">&nbsp;</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<h2>Acaba con las molestas notificaciones</h2>
+<p>Windows 10 integra un centro de notificaciones que tiene como objeto mantenerte al tanto de <strong>lo que va ocurriendo en tus aplicaciones favoritas como por ejemplo el correo electr&oacute;nico o el calendario</strong>. A veces pueden ser realmente intrusivas y terminar completamente abrumado por ellas. Para desactivarlas:</p>
+<ul>
+<li>Abre Configuraci&oacute;n pulsando Windows + I.</li>
+<li>Dir&iacute;gete a Sistema.</li>
+<li>Selecciona Notificaciones y acciones.</li>
+<li>Revisa toda la lista de notificaciones que existen. Desmarca aquellas que directamente no te interesan recibir como por ejemplo los trucos o recomendaciones de Windows.</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>No recibas m&aacute;s anuncios personalizados</h2>
+<p>Cuando se usa Windows 10 se va registrando todo el comportamiento de uso a trav&eacute;s de una identificaci&oacute;n publicitaria &uacute;nica. Esto hace que todos <strong>los anuncios que te vayan llegando est&eacute;n completamente personalizados.</strong>&nbsp;Pero el problema es que esta huella digital no se queda &uacute;nicamente en los servidores de Microsoft, ya que acaba tambi&eacute;n en manos de otras empresas.</p>
+<p>El problema que se presenta es que&nbsp;<strong>la publicidad no se puede desactivar completamente</strong>, sino que &uacute;nicamente se desactiva en parte. Si quieres tener un mayor control de tu informaci&oacute;n, sigue estos pasos:</p>
+<ul>
+<li>Accede a Configuraci&oacute;n.</li>
+<li>Dir&iacute;gete al apartado Privacidad.</li>
+<li>Pulsa en General.</li>
+<li>Desactiva la primera opci&oacute;n dedicada al ID de publicidad para restablecerlo.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>Elimina anuncios en el men&uacute; de inicio</h2>
+<p>La publicidad est&aacute; pr&aacute;cticamente en todas partes del sistema operativo, incluso el men&uacute; de inicio. En este se puede llegar a&nbsp;<strong>mostrar alg&uacute;n anuncio debido a la configuraci&oacute;n predeterminada</strong>, aunque sea de&nbsp;<strong>la Microsoft Store</strong>&nbsp;en exclusiva o de terceros. Para poder eliminar incluso esto, vas a tener que seguir los siguientes pasos:</p>
+<ul>
+<li>Accede a Configuraci&oacute;n.</li>
+<li>Dir&iacute;gete al apartado Personalizaci&oacute;n.</li>
+<li>Deshabilita el switch que se encuentra justo al lado de&nbsp;<strong><em>Mostrar sugerencias ocasionales en Inicio</em></strong>.</li>
+</ul>
+<p>&nbsp;</p>
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+<div class="base-wrapper-image">&nbsp;</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<h2>Impide las aplicaciones en segundo plano</h2>
+<p>Las aplicaciones en segundo plano est&aacute;n trabajando de manera constante, aunque no las est&eacute;s usando en una ventana principal. Esto hace que se est&eacute;n consumiendo&nbsp;<strong>recursos muy valiosos de CPU, RAM o GPU</strong>. Es por ello que puede ser importante desactivar todos estos procesos que se desarrollan sin que tu tengas todo el control.</p>
+<ul>
+<li>Abrir Configuraci&oacute;n.</li>
+<li>Dir&iacute;gete a Privacidad.</li>
+<li>Accede a Aplicaciones en segundo plano.</li>
+<li>Desactiva por completo esta caracter&iacute;stica en el primer switch.</li>
+</ul>
+<p>&nbsp;</p>
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+<div class="base-wrapper-image">&nbsp;</div>
+</div>
+</div>
+<p>&nbsp;</p>
+<h2>Impide la sincronizaci&oacute;n constante</h2>
+<p>Windows como sistema operativo est&aacute; constantemente trabajando en&nbsp;<strong>sincronizar la configuraci&oacute;n, contrase&ntilde;as o el historial de todo lo que est&aacute;s viendo</strong>. Estos recursos est&aacute;n sacrific&aacute;ndose y no se utilizan para realizar otros procesos. Es por ello que puede ser recomendable eliminarlos por completo.</p>
+<ul>
+<li>Abre Configuraci&oacute;n de Windows.</li>
+<li>Dir&iacute;gete a Cuenta.</li>
+<li>Pulsa en Configuraci&oacute;n de sincronizaci&oacute;n.</li>
+<li>Retira los permisos a aquellos procesos que no quieres que est&eacute;n sincronizados.</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p><a href="https://www.genbeta.com/paso-a-paso/sigues-windows-10-recomendable-aplicar-estos-siete-ajustes-tu-pc-funcione-mejor" target="_blank" rel="noopener">Art&iacute;culo original</a>&nbsp;</p>
+<p>Foto de Orlando Schwarz: <a href="https://www.pexels.com/es-es/foto/flores-colorido-ventana-alfeizar-11641363/" target="_blank" rel="noopener">https://www.pexels.com/es-es/foto/flores-colorido-ventana-alfeizar-11641363/</a></p>'
+    ]
+];

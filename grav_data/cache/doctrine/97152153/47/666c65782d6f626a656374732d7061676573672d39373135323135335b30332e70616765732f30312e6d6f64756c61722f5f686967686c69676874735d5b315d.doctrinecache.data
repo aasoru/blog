@@ -1,0 +1,21 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:25:"pages/modular/_highlights";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:19:"Homepage Highlights";s:4:"menu";s:10:"Highlights";s:5:"class";s:3:"big";s:8:"features";a:4:{i:0;a:3:{s:6:"header";s:10:"Crazy Fast";s:4:"text";s:71:"Performance is not just an afterthought, we baked it in from the start!";s:4:"icon";s:11:"fighter-jet";}i:1;a:3:{s:6:"header";s:13:"Easy to build";s:4:"text";s:73:"Simple text files means Grav is trivial to install, and easy to maintain.";s:4:"icon";s:8:"database";}i:2;a:3:{s:6:"header";s:18:"Awesome Technology";s:4:"text";s:73:"Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml";s:4:"icon";s:5:"cubes";}i:3;a:3:{s:6:"header";s:14:"Super Flexible";s:4:"text";s:72:"From the ground up, with many plugin hooks, Grav is extremely extensible";s:4:"icon";s:12:"puzzle-piece";}}}s:11:"frontmatter";s:616:"title: Homepage Highlights
+menu: Highlights
+class: big
+features:
+    - header: Crazy Fast
+      text: "Performance is not just an afterthought, we baked it in from the start!"
+      icon: fighter-jet
+    - header: Easy to build
+      text: "Simple text files means Grav is trivial to install, and easy to maintain."
+      icon: database
+    - header: Awesome Technology
+      text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
+      icon: cubes
+    - header: Super Flexible
+      text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
+      icon: puzzle-piece";s:8:"markdown";s:199:"## Built on top of Greatness
+### Four core tenets keep Grav focused
+
+We believe the best recipe to make something great, is to bake with [quality ingredients](#) and add dollops of [cool stuff](#). 
+";}s:7:"storage";a:6:{s:3:"key";s:25:"pages/modular/_highlights";s:11:"storage_key";s:31:"03.pages/01.modular/_highlights";s:8:"template";s:8:"features";s:17:"storage_timestamp";i:1658418586;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"features";i:1658418586;}}s:8:"checksum";s:32:"8618eb9b013c072955350d09e73fdfe4";}}

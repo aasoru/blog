@@ -1,0 +1,11 @@
+1663608597
+a:2:{s:7:"content";s:940:"<blockquote>
+<p>Bun, an all-in-one JavaScript runtime with enhanced performance, is now available in beta release.</p>
+</blockquote>
+<p><a href="https://bun.sh/" target="_blank" rel="noopener">Bun</a>, diseñado para competir con Node.js y Deno, está centrado en el rendimiento y en ser todo en uno (runtime, bundler, gestor de paquetes, transpilador). </p>
+<p>===</p>
+<p>Un factor que contribuye a que sea tan <strong>veloz</strong> es que está escrito en <strong>Zig</strong>, un lenguaje de programación de bajo nivel. Esto hace que sea más sencillo escribir un software más rápido debido al control de bajo nivel sobre la memoria.</p>
+<p> </p>
+<p>Entonces, ¿deberías usar Bun?<br/>Probablemente no, al menos actualmente ya que aún está en fase beta, pero merecerá la pena seguirle la pista para ver cómo evoluciona.</p>
+<p> </p>
+<p>website: <a href="https://bun.sh/" target="_blank" rel="noopener">https://bun.sh/</a></p>";s:12:"content_meta";N;}

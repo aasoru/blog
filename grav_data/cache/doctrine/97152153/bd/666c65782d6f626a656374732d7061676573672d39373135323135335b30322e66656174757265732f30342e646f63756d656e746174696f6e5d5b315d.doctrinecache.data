@@ -1,0 +1,3 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"features/documentation";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:4:"menu";s:13:"Documentation";s:12:"external_url";s:22:"http://docs.gantry.org";}s:11:"frontmatter";s:58:"menu: Documentation
+external_url: 'http://docs.gantry.org'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:22:"features/documentation";s:11:"storage_key";s:28:"02.features/04.documentation";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1663000945;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1658418586;}}s:8:"checksum";s:32:"05357c25ae8f148ac64c37ce83507e3e";}}

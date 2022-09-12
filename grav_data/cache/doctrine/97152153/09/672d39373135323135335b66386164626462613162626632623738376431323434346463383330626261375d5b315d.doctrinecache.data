@@ -1,0 +1,70 @@
+1663608224
+a:2:{s:7:"content";s:3209:"<p>Laravel proporciona dos formas principales de autorizar acciones: <strong>Gates</strong> (puertas) y <strong>Policies</strong> (políticas). La idea es sencilla, las puertas proporcionan un enfoque simple, basado en el cierre de la autorización, mientras que las políticas agrupan la lógica en torno a un modelo o recurso en concreto. En este artículo vamos a ver un ejemplo usando Lumen de creación y aplicación de <strong>Gate</strong></p>
+<p>===</p>
+<p>Usar esto en tu proyecto de Laravel <strong>es muy útil cuando tienes diferentes tipos de usuarios con roles específicos</strong> y necesitas <strong>restringir el acceso</strong> de los usuarios a ciertas acciones.</p>
+<p> </p>
+<h2>Gates</h2>
+<h3>Definición</h3>
+<p>Un ejemplo sencillo de Gate, definirás tu Gate en <strong>App\Providers\AuthServiceProvider</strong>: </p>
+<pre class="block-preformatted">use App\Models\Post;
+use App\Models\User;
+use Illuminate\Support\Facades\Gate;
+
+/**
+ * Register any authentication / authorization services.
+ *
+ * @return void
+ */
+public function boot()
+{
+    $this-&gt;registerPolicies();
+
+    Gate::define('update-post', function (User $user, Post $post) {
+        return $user-&gt;id === $post-&gt;user_id;
+    });
+}
+</pre>
+<p> </p>
+<p>Es la forma más sencilla de definirlo, sin embargo no es la única, y en mi caso la autenticación de usuarios se hace de manera "manual", así que lo que hago es definir esta forma en el propio <strong>AuthServiceProvider</strong>:</p>
+<pre class="block-preformatted">public function boot(){
+        Auth::viaRequest('custom-token', function (Request $request) {
+            return Users::where('user_token', $request-&gt;bearerToken())-&gt;first();
+        });
+
+        Gate::define('index', function ($user_id, $section_id) {
+            return Sections::where('user_id', $user_id)-&gt;where('section_id', $section_id)-&gt;count() &gt; 0
+                ? Response::allow()
+                : Response::deny("You don't have permission on this section");
+        });
+
+</pre>
+<h3>Uso en Controlador</h3>
+<p>De esta manera ya puedo definir tantas acciones autorizadas como necesite (show, create, edit, destroy, etc), y luego en el controlador tendré que hacer algo como esto:</p>
+<pre class="block-preformatted">namespace App\Http\Controllers;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Gate;
+
+class SecitonController extends Controller
+{
+    /**
+     * Show the given section.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @return \Illuminate\Http\Response
+     */
+    public function index(Request $request)
+    {
+        if (!Gate::allows('index', $request-&gt;section_id)
+            return response()-&gt;json(['error' =&gt; 'Unauthorized'], 401]);
+
+        // If User Authorized ...
+    }
+}
+
+</pre>
+<h2> </h2>
+<hr/>
+<p>Este artículo ha sido creado a partir de la documentación oficial de Laravel que puedes encontrar <a href="https://laravel.com/docs/9.x/authorization">aquí</a></p>
+<p>Photo by Pixabay: <a href="https://www.pexels.com/photo/door-handle-key-keyhole-279810/" target="_blank" rel="noopener">https://www.pexels.com/photo/door-handle-key-keyhole-279810/</a></p>";s:12:"content_meta";N;}

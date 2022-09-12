@@ -1,0 +1,7 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"pages/modular/_callout";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:16:"Homepage Callout";s:4:"menu";s:12:"Easy Content";s:11:"image_align";s:5:"right";}s:11:"frontmatter";s:61:"title: Homepage Callout
+menu: Easy Content
+image_align: right";s:8:"markdown";s:256:"## Content Unchained
+
+No longer are you a _slave to your CMS_. Grav **empowers** you to create anything from a [simple one-page site](#), to a [beautiful blog](#), to a powerful and feature-rich [product site](#), to pretty much anything you can dream up!
+";}s:7:"storage";a:6:{s:3:"key";s:22:"pages/modular/_callout";s:11:"storage_key";s:28:"03.pages/01.modular/_callout";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1658418586;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"text";i:1658418586;}}s:8:"checksum";s:32:"6e8ecea9f0f05fc6558334cfea8a871e";}}

@@ -1,0 +1,18 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:25:"features/block-variations";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:16:"Block Variations";s:6:"author";a:2:{s:8:"username";s:5:"admin";s:5:"alias";s:11:"RocketTheme";}s:4:"date";s:19:"2016-01-01 00:00:01";s:9:"published";b:1;s:12:"publish_date";s:19:"2016-10-04 19:25:09";s:8:"taxonomy";a:1:{s:8:"category";s:14:"Theme Features";}s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:0;}s:8:"markdown";a:1:{s:5:"extra";b:1;}}s:11:"frontmatter";s:265:"title: 'Block Variations'
+author:
+    username: admin
+    alias: RocketTheme
+date: '2016-01-01 00:00:01'
+published: true
+publish_date: '2016-10-04 19:25:09'
+taxonomy:
+    category: 'Theme Features'
+process:
+    markdown: true
+    twig: false
+markdown:
+  extra: true";s:8:"markdown";s:366:"##Block Variations {.entry-title}
+
+<p>Block variations are easy-to-use preset styles that can be applied to any content block. You can do this through the admin by navigating to the particle and/or block's settings in the <strong>Layout Manager</strong>, selecting the <strong>Block</strong> tab, and selecting them within the <strong>Variations</strong> field.</p>
+";}s:7:"storage";a:6:{s:3:"key";s:25:"features/block-variations";s:11:"storage_key";s:31:"02.features/02.block-variations";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1663000945;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1658418586;}}s:8:"checksum";s:32:"65b394512125972be66ef9d5d5eeaed5";}}

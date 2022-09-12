@@ -1,0 +1,18 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"blog";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:4:"Home";s:7:"content";a:8:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:7:"leading";i:1;s:7:"columns";i:3;s:5:"limit";i:7;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:9:"show_date";b:1;s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:0;}s:10:"dateformat";s:9:"d-m-Y H:i";}s:11:"frontmatter";s:287:"title: Home
+content:
+    items:
+        - '@self.children'
+    leading: 1
+    columns: 3
+    limit: 7
+    order:
+        by: date
+        dir: desc
+    show_date: true
+    pagination: true
+    url_taxonomy_filters: true
+process:
+    markdown: true
+    twig: false
+dateformat: 'd-m-Y H:i'";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:4:"blog";s:11:"storage_key";s:7:"03.blog";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1663001401;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1657405932;}}s:8:"children";a:12:{s:59:"autorizacion-con-lumen-laravel-gates-que-son-y-como-usarlas";b:0;s:32:"bun-un-rival-para-node-js-y-deno";b:0;s:27:"classic-modern-architecture";b:0;s:75:"configuraciones-basicas-de-windows-10-para-mejorar-rendimiento-y-privacidad";b:0;s:14:"focus-and-blur";b:0;s:28:"herramientas-de-recuperacion";b:0;s:20:"just-some-text-today";b:0;s:12:"monaco-night";b:0;s:15:"random-thoughts";b:0;s:16:"the-urban-jungle";b:0;s:51:"top-20-webs-de-servicios-gratuitos-demasiado-buenos";b:0;s:53:"top-20-webs-de-servicios-gratuitos-demasiado-buenos-2";b:0;}s:8:"checksum";s:32:"8793e65c0b93851a900dbb88b6a0cb50";}}

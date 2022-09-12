@@ -1,0 +1,31 @@
+1663004035
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"pages/modular/_features";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:17:"Homepage Features";s:4:"menu";s:8:"Features";s:5:"class";s:5:"small";s:8:"features";a:12:{i:0;a:2:{s:6:"header";s:15:"Markdown Syntax";s:4:"icon";s:11:"text-height";}i:1;a:2:{s:6:"header";s:15:"Twig Templating";s:4:"icon";s:4:"code";}i:2;a:2:{s:6:"header";s:13:"Smart Caching";s:4:"icon";s:6:"rocket";}i:3;a:2:{s:6:"header";s:19:"Flexible Taxonomies";s:4:"icon";s:4:"tags";}i:4;a:2:{s:6:"header";s:14:"Simple Install";s:4:"icon";s:14:"cloud-download";}i:5;a:2:{s:6:"header";s:16:"Powerful Plugins";s:4:"icon";s:4:"cogs";}i:6;a:2:{s:6:"header";s:12:"Intuitive UI";s:4:"icon";s:9:"dashboard";}i:7;a:2:{s:6:"header";s:10:"File-Based";s:4:"icon";s:9:"file-text";}i:8;a:2:{s:6:"header";s:13:"Documentation";s:4:"icon";s:8:"bookmark";}i:9;a:2:{s:6:"header";s:9:"On Github";s:4:"icon";s:6:"github";}i:10;a:2:{s:6:"header";s:17:"Responsive Design";s:4:"icon";s:5:"html5";}i:11;a:2:{s:6:"header";s:11:"Awesomazing";s:4:"icon";s:5:"heart";}}}s:11:"frontmatter";s:647:"title: Homepage Features
+menu: Features
+class: small
+features:
+    - header: Markdown Syntax
+      icon: text-height
+    - header: Twig Templating
+      icon: code
+    - header: Smart Caching
+      icon: rocket
+    - header: Flexible Taxonomies
+      icon: tags
+    - header: Simple Install
+      icon: cloud-download
+    - header: Powerful Plugins
+      icon: cogs
+    - header: Intuitive UI
+      icon: dashboard
+    - header: File-Based
+      icon: file-text
+    - header: Documentation
+      icon: bookmark
+    - header: On Github
+      icon: github
+    - header: Responsive Design
+      icon: html5
+    - header: Awesomazing
+      icon: heart";s:8:"markdown";s:83:"## Stuffed full of Amazing Features
+### This is a non-inclusive smattering of them
+";}s:7:"storage";a:6:{s:3:"key";s:23:"pages/modular/_features";s:11:"storage_key";s:29:"03.pages/01.modular/_features";s:8:"template";s:8:"features";s:17:"storage_timestamp";i:1658418586;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"features";i:1658418586;}}s:8:"checksum";s:32:"ee4831325a08add8324d307680903b3f";}}
